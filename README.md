@@ -22,3 +22,6 @@
 ## Getting Started
 
 Welcome to the JavaScript Mastery Course! This course is designed to take you from a beginner to a proficient JavaScript developer. Whether you're aiming to build a strong foundation or seeking to master advanced concepts, this course has something for everyone.
+
+No coding experience is necessary to take this course! I take you from beginner to expert!
+Any computer and OS will work — Windows, macOS, or Linux. We will set up your text editor for the course.
